@@ -1,16 +1,11 @@
-### Hi there 👋
+Hi 👋, I'm Kapil kukreja
+A Passionate Data Analyst.
+🎓 pursuing Full Stack Data Science Course from AlmaBetter.
+💬 Ask me about Data Science, Data Analysis, Python, Sql
+📫 How to reach me kapilkukreja469@gmail.com
+⚡ Passionate about Artificial Intelligence
+Connect with me:
+https://www.linkedin.com/in/kapil-kukreja-7b2ab5121/
 
-<!--
-**kapilkukreja469/kapilkukreja469** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+c cplusplus git mysql pandas postgresql python scikit_learn seaborn sqlite
