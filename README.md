@@ -4,6 +4,8 @@
 <h3 align="center">A Passionate Data Analyst.</h3>
 
 - 🎓 Pursuing **Full Stack Data Science** Course from AlmaBetter.
+- 🎓 Completed **Android App Developement** Course from Apsmind institute.
+- 🎓 completed **BCA from IGNOU univercity** Delhi.
 - 💬 Ask me about **Data Science, Data Analysis, Python, Sql**
 - 📫 How to reach me **Kapilkukreja469@gmail.com**
 - ⚡ Passionate about **Artificial Intelligence**
@@ -11,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kapil-kukreja-7b2ab5121//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek1py/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishek1py" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/kapilarora469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishek1py" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
