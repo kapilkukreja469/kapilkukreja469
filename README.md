@@ -6,7 +6,6 @@
 - 🎓 Pursuing **Full Stack Data Science** Course from AlmaBetter.
 - 🎓 Completed **Android App Developement** Course from Apsmind institute.
 - 🎓 completed **BCA from IGNOU univercity** Delhi.
-- 💬 Ask me about **Data Science, Data Analysis, Python, Sql**
 - 📫 How to reach me **Kapilkukreja469@gmail.com**
 - ⚡ Passionate about **Artificial Intelligence**
 
