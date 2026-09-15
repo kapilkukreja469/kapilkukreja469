@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Kapil Kukreja</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilkukreja469&label=Profile%20views&color=0e75b6&style=flat" alt="kapilkukreja469" /> </p>
 <h3 align="center">A Passionate Network Engineer.</h3>
-- 🎓 Completed **CCNA ** Course from Simplilearn By SKILLUP.
+- 🎓 Completed **CCNA** Course from Simplilearn By SKILLUP.
 - 🎓 Completed **Full Stack Data Science** Course from AlmaBetter.
 - 🎓 Completed **Android App Developement** Course from Apsmind institute.
 - 🎓 completed **BCA from IGNOU univercity** Delhi.
