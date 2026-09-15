@@ -1,7 +1,6 @@
 <img align="right" alt="Data Scienctist" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <h1 align="center">Hi, I'm Kapil Kukreja</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilkukreja469&label=Profile%20views&color=0e75b6&style=flat" alt="kapilkukreja469" /> </p>
-<h3 align="center">A Passionate Network Engineer.</h3>
 
 - 🎓 Completed **CCNA** Course from Simplilearn By SKILLUP.
 - 🎓 Completed **Full Stack Data Science** Course from AlmaBetter.
