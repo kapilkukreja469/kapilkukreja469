@@ -7,7 +7,7 @@
 - 🎓 Completed **Android App Developement** Course from Apsmind institute.
 - 🎓 completed **BCA from IGNOU univercity** Delhi.
 - 📫 How to reach me **Kapilkukreja469@gmail.com**
-- ⚡ Passionate about **Artificial Intelligence**
+- ⚡ Passionate about **Artificial Intelligence**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
